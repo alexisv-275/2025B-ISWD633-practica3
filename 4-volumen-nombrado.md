@@ -87,10 +87,16 @@ docker run -d --name server-drupal --publish published=9700,target=80 -v vol-dru
 ```
 ### Ingrese al server-drupal y siga el paso a paso para la instalación.
 # COMPLETAR CON UNA CAPTURA DE PANTALLA DEL PASO 4
+<img width="1838" height="1115" alt="image" src="https://github.com/user-attachments/assets/240ed9e1-d284-4e10-b239-263bf6e26ddf" />
+<img width="1836" height="1106" alt="image" src="https://github.com/user-attachments/assets/271cf552-318a-45f7-b954-b7f9824e6684" />
+<img width="1842" height="1119" alt="image" src="https://github.com/user-attachments/assets/33afd3a3-60b5-4af2-aade-1103aa68cdbf" />
+
 
 _La instalación puede tomar varios minutos, mientras espera realice un diagrama de los contenedores que ha creado en este apartado._
 
 # COMPLETAR CON EL DIAGRAMA SOLICITADO
+<img width="779" height="573" alt="image" src="https://github.com/user-attachments/assets/3f3ac65a-3438-4ea9-8163-6799eef2f9f0" />
+
 
 ### Eliminar un volumen específico
 ```
